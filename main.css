@@ -6,9 +6,10 @@ body {
     margin-bottom: 200px;
 }
 h1 {
-    color: white;
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
+    background-color: rgb(255, 179, 0);
 }
 p {
     color: rgb(0, 0, 0);
@@ -95,4 +96,18 @@ h2, h3 {
     background-color: #ff8000;
     padding: 10px 20px;
     color: black;
+}
+.meal-item {
+    background-color: #ff3232;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    
+}
+.food {
+    color: rgb(0, 0, 0);
+}
+.food:hover {
+    color: #00ff00;
 }
