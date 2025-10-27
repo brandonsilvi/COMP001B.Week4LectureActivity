@@ -67,7 +67,7 @@ header {
 #breakfast, #lunch, #dinner, #treats {
     margin-bottom: 40px;
     background-color: #c09900;
-    border: #ff6600 2px solid transparent;
+    border: #ff6600 2px solid;
 }
 .content-container {
     display: flex;
